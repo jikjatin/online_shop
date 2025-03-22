@@ -14,8 +14,8 @@ dist
 build
 
 # Ignore Docker files
-Dockerfile
-docker-compose.yml
+#Dockerfile
+#docker-compose.yml
 
 # Ignore temporary files
 tmp
